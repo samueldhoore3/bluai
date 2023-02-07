@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background-image: url(https://dl.dropbox.com/s/6247phhvsjhzw20/LOGO_ICON.png?dl=1);
+    background-image: url('https://dl.dropbox.com/s/6247phhvsjhzw20/LOGO_ICON.png?dl=1');
   background-position-x: center;
     background-position-y: 45%;
   background-repeat: no-repeat;
