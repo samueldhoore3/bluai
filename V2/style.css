@@ -51,6 +51,7 @@
             display: grid;
             justify-content: right;
             cursor: pointer;
+            z-index: 0;
         }
 
         .overlay {
