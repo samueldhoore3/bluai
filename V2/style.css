@@ -27,14 +27,14 @@
     /* logo */
 
         .logo-bluai img {
-            width: 20rem;
             z-index: 2;
             transform:translate3d(0,0,0);
         }
         .logo-bluai {
             display: grid;
             justify-content: center;
-            padding-bottom: 3rem;
+            padding: 0 3rem 3rem 3rem;
+            max-width: 25rem;
         }
     
     /********************************************************************************************************************************/
